@@ -1,0 +1,3 @@
+- Hi, I’m @GWhittle110
+- University of Oxford Engineering Science undergrad
+- Currently interested in numerical analysis and dynamical systems
